@@ -1513,7 +1513,7 @@ code {
  */
 #clients {
   background: #242424;
-  padding: 100px 0; }
+  padding: 100px 0px; }
   #clients .clients-loop a {
     display: block;
     padding: 10px 30px; }
